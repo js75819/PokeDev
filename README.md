@@ -1,3 +1,3 @@
 # PokeDev
 
-![Image](https://user-images.githubusercontent.com/40505660/126225777-60ee5265-bb3f-4f3f-bebd-d38ae0068612.jpg)
+![imagem](https://user-images.githubusercontent.com/40505660/126226477-bbd45f67-9f79-4bea-a481-bfc2961a337b.png)
