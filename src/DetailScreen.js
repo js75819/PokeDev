@@ -57,7 +57,7 @@ function DetailScreen({ route }) {
   return (
     <View style={{ flex: 1, justifyContent: 'center', backgroundColor: '#fff' }}>
       <View style={styles.header}>
-        <Text style={styles.titulo1}>Lista de Pokémons</Text>
+        <Text style={styles.titulo1}>Detalhes do Pokémons</Text>
       </View>
       <View style={styles.pokemon}>
         <View style={styles.imageArea}>
